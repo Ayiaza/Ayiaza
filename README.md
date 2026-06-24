@@ -5,15 +5,15 @@ Chasing complex puzzles to expand engineering capabilities.
 
 ### Tools & Tech
 **Languages:**  
-&nbsp;&nbsp;&nbsp;&nbsp;C++ `|` Python `|` Java  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ `|` Python `|` Java  
 **Tools & Environments:**  
-&nbsp;&nbsp;&nbsp;&nbsp;GitHub `|` VS Code
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub `|` VS Code
 
 ### A Bit About Me
 🔭 **Current Focus:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Sharpening data structures, algorithms, and software design principles.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharpening data structures, algorithms, and software design principles.  
 🎓 **Education:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Pursuing a Bachelor of Science in Computer Science.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuing a Bachelor of Science in Computer Science.  
 ⚡ **Mindset:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Building clean logic, tackling intellectual challenges, and continuous learning.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building clean logic, tackling intellectual challenges, and continuous learning.
 
