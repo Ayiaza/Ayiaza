@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
+I'm Ayiaza, a Computer Science Student based in Pakistan.
 
-<!--
-**Ayiaza/Ayiaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tools & Tech
+##.## **Languages:**
+        C++ `|` Python `|` Java
+##.## **Tools & Environments:**
+         GitHub `|` VS Code
 
-Here are some ideas to get you started:
+### 💻 A Bit About Me
+##.## 🔭 **Current Focus:**
+              Sharpening data structures, algorithms, and software design principles.
+##.##🎓 **Education:**
+              Pursuing a Bachelor of Science in Computer Science.
+##.## ⚡ **Mindset:**
+              Building clean logic, tackling intellectual challenges, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
