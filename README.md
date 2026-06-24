@@ -5,7 +5,7 @@ Chasing complex puzzles to expand engineering capabilities.
 
 ### Tools & Tech
 **Languages:**  
-'C++ `|` Python `|` Java'
+&nbspC++ `|` Python `|` Java'
 **Tools & Environments:**  
  'GitHub `|` VS Code'
 
