@@ -1,6 +1,6 @@
 ## Hey there 👋
-I'm Ayiaza, a Computer Science Student based in Pakistan.
-Computer Science student architecting logic over simple code.
+I'm Ayiaza, a Computer Science Student based in Pakistan.  
+Computer Science student architecting logic over simple code.  
 Chasing complex puzzles to expand engineering capabilities.
 
 ### Tools & Tech
