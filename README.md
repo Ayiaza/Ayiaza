@@ -1,17 +1,17 @@
 ## Hey there 👋
 I'm Ayiaza, a Computer Science Student based in Pakistan.
 
-### 🛠️ Tools & Tech
-##.## **Languages:**
+### Tools & Tech
+-**Languages:**
         C++ `|` Python `|` Java
-##.## **Tools & Environments:**
+-**Tools & Environments:**
          GitHub `|` VS Code
 
-### 💻 A Bit About Me
-##.## 🔭 **Current Focus:**
+### A Bit About Me
+-🔭 **Current Focus:**
               Sharpening data structures, algorithms, and software design principles.
-##.##🎓 **Education:**
+-🎓 **Education:**
               Pursuing a Bachelor of Science in Computer Science.
-##.## ⚡ **Mindset:**
+-⚡ **Mindset:**
               Building clean logic, tackling intellectual challenges, and continuous learning.
 
